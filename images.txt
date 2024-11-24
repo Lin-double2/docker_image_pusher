@@ -1,3 +1,3 @@
 nginx
 #jenkins/jenkins:2.346.3
-jenkins/jenkins:2.486
+jenkins/jenkins:2.486-jdk17
