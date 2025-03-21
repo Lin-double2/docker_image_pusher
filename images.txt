@@ -4,5 +4,7 @@ jenkins/jenkins:2.486-jdk17
 jenkins/jenkins:2.462.1-lts-jdk11
 jenkins/jenkins:2.426.1-lts-jdk11
 jenkins/jenkins:2.492.1-lts-jdk17
+jenkins/jenkins:2.492.2-lts-jdk17
+
 gitlab/gitlab-ce:17.9.0-ce.0
 gitlab/gitlab-ce:17.9.2-ce.0
