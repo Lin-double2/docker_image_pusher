@@ -8,3 +8,5 @@ jenkins/jenkins:2.492.2-lts-jdk17
 
 gitlab/gitlab-ce:17.9.0-ce.0
 gitlab/gitlab-ce:17.9.2-ce.0
+
+sonarqube:9.9.8-community
