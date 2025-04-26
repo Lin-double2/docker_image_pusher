@@ -1,4 +1,4 @@
-nginx
+nginx:1.28.0-alpine
 
 jenkins/jenkins:2.492.2-lts-jdk17
 
