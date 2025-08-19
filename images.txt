@@ -1,6 +1,7 @@
 nginx:1.28.0-alpine
 
 jenkins/jenkins:2.492.2-lts-jdk17
+jenkins/jenkins:jdk21
 
 gitlab/gitlab-ce:17.9.0-ce.0
 gitlab/gitlab-ce:17.9.2-ce.0
